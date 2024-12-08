@@ -1,0 +1,76 @@
+{
+  "156813629780393984": {
+    "translationRequests": [
+      {
+        "gameName": "teste",
+        "gameEngine": "1",
+        "gameLink": "2",
+        "channelId": "1315153394578755585",
+        "messageId": "1315181190046547968",
+        "timestamp": 1733634030464
+      },
+      {
+        "gameName": "1",
+        "gameEngine": "2",
+        "gameLink": "3",
+        "channelId": "1315153394578755585",
+        "messageId": "1315196891490680862",
+        "timestamp": 1733637773965
+      },
+      {
+        "gameName": "teste",
+        "gameEngine": "amigo",
+        "gameLink": "a",
+        "channelId": "1315153394578755585",
+        "messageId": "1315439805508751452",
+        "timestamp": 1733695689263
+      },
+      {
+        "gameName": "ada",
+        "gameEngine": "qeq",
+        "gameLink": "123",
+        "channelId": "1021172446503637072",
+        "messageId": "1315446867575701545",
+        "timestamp": 1733697372880
+      },
+      {
+        "gameName": "1",
+        "gameEngine": "2",
+        "gameLink": "3",
+        "channelId": "1021172446503637072",
+        "messageId": "1315448865138413723",
+        "timestamp": 1733697849108
+      }
+    ],
+    "cooldowns": {}
+  },
+  "1150234193029238886": {
+    "translationRequests": [],
+    "cooldowns": {
+      "pedido-traducao": 1733694682251
+    }
+  },
+  "801143541631942696": {
+    "translationRequests": [
+      {
+        "gameName": "a",
+        "gameEngine": "sexo",
+        "gameLink": "amogus",
+        "channelId": "1021172446503637072",
+        "messageId": "1315447611271938049",
+        "timestamp": 1733697550171
+      },
+      {
+        "gameName": "1",
+        "gameEngine": "2",
+        "gameLink": "3",
+        "channelId": "1021172446503637072",
+        "messageId": "1315449629994913853",
+        "timestamp": 1733698031516
+      }
+    ],
+    "cooldowns": {
+      "pedido-traducao": 1733701625373
+    }
+  }
+}
