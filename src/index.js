@@ -52,7 +52,7 @@ client.on('interactionCreate', async interaction => {
     }
 });
 
-client.login(process.env.DISCORD_TOKEN);
+client.login(process.env.TOKEN);
 
 client.once('ready', () => {
     console.log(`Bot está online como ${client.user.tag}!`);
