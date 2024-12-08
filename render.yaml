@@ -1,5 +1,5 @@
 services:
-  - type: web
+  - type: worker
     name: 18games-discord-bot
     env: node
     buildCommand: npm install
